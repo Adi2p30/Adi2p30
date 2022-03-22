@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adi2p30 Aditya Pachpande
 - 🏫 I'm in 10th Grade, studying in Sanskriti School, Pune 
 - 👀 I'm interested in Problem Solving and Mathematic based logic
-- 🌱 I’m currently learning Python and Web Development 
+- 🌱 I’m currently learning Python and Web and Web App Development 
 - Looking for any project to work on.
 - If you need another person on a project please feel free to contact me
 - Instagram: https://www.instagram.com/adi2p30/
