@@ -1,6 +1,6 @@
 ## Hi!! 👋 Im Aditya Pachpande!
 
-- 🏫 I'm in 11th Grade, studying at _____________
+- 🏫 I'm in 11th Grade, studying at Suryadatta National School
 
 - 👀 I'm interested in Problem Solving and Mathematic based logic
 - 🌱 I’m currently learning Python, Data Analytics, Web and Web App Development 
