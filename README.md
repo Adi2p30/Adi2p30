@@ -3,7 +3,7 @@
 - 🏫 I'm in 11th Grade, studying at Suryadatta National School
 
 - 👀 I'm interested in Problem Solving and Mathematic based logic
-- 🌱 I’m currently learning Python, Data Analytics, Web and Web App Development 
+- 🌱 I’m currently learning Python, Data Analytics, Web and Web App Development, Machine Learning
 - Looking for any project to work on.
 - If you need another person on a project please feel free to contact me
 
