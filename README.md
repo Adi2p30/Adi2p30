@@ -7,7 +7,7 @@
 - Looking for any project to work on.
 - If you need another person on a project please feel free to contact me
 
-    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Swaggerpanda30@gmail.com)
+    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Swaggerpanda30@gmail.com)
 
 
 # 🛠 Skills
