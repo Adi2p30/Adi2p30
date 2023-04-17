@@ -41,4 +41,4 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Adi2p30_)
 
 ![Visitor Count](https://profile-counter.glitch.me/adi2p30/count.svg)
-
+Visitor Count
