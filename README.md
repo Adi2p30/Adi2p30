@@ -1,7 +1,7 @@
 ![ADITYA PACHPANDE (1)](https://user-images.githubusercontent.com/55141249/232376076-6c5f49ce-e156-4fbf-86da-b51be90daa7c.png)
 
 # Hi!! 👋 Im Aditya!
-- 🏫 I'm in 11th Grade, studying at Suryadatta National School
+- 🏫 I'm in 12th Grade, studying at Suryadatta National School
 
 - 👀 I'm interested in Problem Solving and Mathematic based logic
 - 🌱 I’m currently learning Python, Data Analytics, Web and Web App Development, Machine Learning
