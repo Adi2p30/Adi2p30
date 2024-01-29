@@ -1,4 +1,6 @@
-![ADITYA PACHPANDE (1)](https://user-images.githubusercontent.com/55141249/232376076-6c5f49ce-e156-4fbf-86da-b51be90daa7c.png)
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/55141249/232376076-6c5f49ce-e156-4fbf-86da-b51be90daa7c.png" width="800"/>
+</div>
 
 # Hi!! 👋 Im Aditya!
 - 🏫 I'm in 12th Grade, studying at Suryadatta National School
@@ -8,8 +10,8 @@
 - Looking for any project to work on.
 - If you need another person on a project please feel free to contact me
 
-    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Swaggerpanda30@gmail.com)
-
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Swaggerpanda30@gmail.com)
+  
 # Skills 🛠 
 
 ## Languages and Libraries
@@ -40,6 +42,10 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.instagram.com/adi2p30/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityapachpande)_
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Adi2p30_)
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pldmhhb2c3MGlmcGN6ZzV3OHU4cTY3cTNzNTQwZGlrOGl6dW42eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="500"/>
+</div>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/adi2p30/count.svg)
