@@ -3,7 +3,7 @@
 </div>
 
 # Hi!! 👋 Im Aditya!
-- 🏫 I'm an incoming freshman at Purdue University!
+- 🏫 I'm a freshman at Purdue University!
 - 👀 I'm interested in Problem Solving and Mathematic based logic
 - 🌱 I’m currently learning Python, Data Analytics, Web and Web App Development, Machine Learning
 - Looking for any project to work on.
