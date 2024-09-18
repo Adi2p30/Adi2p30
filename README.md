@@ -4,9 +4,8 @@
 
 # Hi!! 👋 Im Aditya!
 - 🏫 I'm a freshman at Purdue University!
-- 👀 I'm interested in Problem Solving and Mathematic based logic
-- 🌱 I’m currently learning Python, Data Analytics, Web and Web App Development, Machine Learning
-- Looking for any project to work on.
+- 👀 I'm interested in Data Analytics, Web and Web App Development, Machine Learning
+- Looking for projects to work on.
 - If you need another person on a project please feel free to contact me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Swaggerpanda30@gmail.com)
