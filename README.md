@@ -4,7 +4,7 @@
 
 # Hi!! 👋 Im Aditya!
 - 🏫 I'm a freshman at Purdue University!
-- 👀 I'm interested in Data Analytics, Web and Web App Development, Machine Learning
+- 👀 I'm interested in Data Analytic, Machine Learning and Computer Vision
 - Looking for projects to work on.
 - If you need another person on a project please feel free to contact me
 
