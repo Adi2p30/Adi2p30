@@ -3,8 +3,8 @@
 </div>
 
 # Hi!! 👋 Im Aditya!
-- 🏫 I'm a freshman at Purdue University!
-- 👀 I'm interested in Data Analytic, Machine Learning and Computer Vision
+- Data Science @ Purdue University!
+- I'm interested in Data Analytic, Machine Learning and Computer Vision
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Swaggerpanda30@gmail.com)
   
