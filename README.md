@@ -3,6 +3,7 @@
 </div>
 
 # Hi!! 👋 Im Aditya!
+- CEO @ PoliStock
 - Data Science @ Purdue University!
 - I'm interested in Data Analytic, Machine Learning, LLMs and Computer Vision
 
