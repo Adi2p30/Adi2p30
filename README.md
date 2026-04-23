@@ -7,7 +7,7 @@
 - Data Science @ Purdue University
 - Prev NASA
 - [CV](https://www.apachpande.com/Resume.pdf)
-- 
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Swaggerpanda30@gmail.com)
   
 # Skills
