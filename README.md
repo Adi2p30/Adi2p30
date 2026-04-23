@@ -2,34 +2,27 @@
   <img src="https://user-images.githubusercontent.com/55141249/232376076-6c5f49ce-e156-4fbf-86da-b51be90daa7c.png" width="800"/>
 </div>
 
-# Hi!! 👋 Im Aditya!
-- CEO @ PoliStock
-- Data Science @ Purdue University!
-- I'm interested in Data Analytic, Machine Learning, LLMs and Computer Vision
-
+# Hey, Im Aditya.
+- Working on Computer Vision, VLMs and Machine Learning
+- Data Science @ Purdue University
+- Prev NASA
+- [CV](https://www.apachpande.com/Resume.pdf)
+- 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Swaggerpanda30@gmail.com)
   
-# Skills 🛠 
+# Skills
 
-## Languages and Libraries
-![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Languages
+**Python** · **R** · **PostgreSQL** · **Julia** · **Java** · **C++**
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge)
+## Software
+**Tableau** · **QGIS** · **MATLAB** · **Unity** · **Panoply**
 
-## Data Analysis
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## ML / AI & Data
+**PyTorch** · **TensorFlow** · **Scikit-learn** · **Keras** · **HuggingFace** · **LangChain** · **Google ADK** · **Autogen** · **Pandas** · **NumPy** · **SciPy** · **Spark** · **BigQuery** · **FastMCP**
 
-
-## Machine Learning and Data Visualisation 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+## Software Engineering
+**Flask** · **FastAPI** · **Next.js** · **Redis** · **MongoDB** · **Neo4j**
 
 # Socials and Links 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Adityapachpande.in/) 
@@ -44,5 +37,3 @@
 </div>
 
 
-![Visitor Count](https://profile-counter.glitch.me/adi2p30/count.svg)
-Visitor Count
