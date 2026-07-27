@@ -4,6 +4,7 @@
 
 # Hey, Im Aditya.
 - Working on Computer Vision, VLMs and Machine Learning
+- ML Intern @ JPL
 - Data Science @ Purdue University
 - Prev NASA
 - [CV](https://www.apachpande.com/Resume.pdf)
